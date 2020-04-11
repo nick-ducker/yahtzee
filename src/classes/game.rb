@@ -194,7 +194,7 @@ class Game
         input = gets.chomp
         comparer = input.split.first
 
-        until comparer == "1" || comparer == "2" || comparer == "3" || comparer == "4" || comparer == "5"
+        until comparer == "0" || comparer == "1" || comparer == "2" || comparer == "3" || comparer == "4" || comparer == "5"
             yahtzee_banner
             dice_display
             @players[@playernum].current_scorecard
