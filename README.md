@@ -20,6 +20,18 @@ This was coded and uploaded after roughly two weeks of coding experience/practic
 
 ## Planned Changes
 
+-- Add rules
+
+-- Better Dice Roll UI
+
+-- Sleepfunc & Animations
+
+-- Fix P1 & P2 bug
+
+-- Add single player mode
+
+-- Try adding gems for animation
+
 -- Refactor code to better reflect DRY principle
 
 -- Evaluate links between the Game and Player 

@@ -34,7 +34,7 @@ class Game
         gets
     end
 
-    def add_players
+    def add_players ############## ADD ONE PLAYER MODE AND FIX P1 P2
         puts "How many players? 2 -- 5:"
         input = validate_player_number
         case input
